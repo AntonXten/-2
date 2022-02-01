@@ -1,0 +1,15 @@
+C:\Users\Антон\Desktop\Новая папка (2)\EEEEE3\bin\Debug\net6.0\EEEEE3.exe
+C:\Users\Антон\Desktop\Новая папка (2)\EEEEE3\bin\Debug\net6.0\EEEEE3.deps.json
+C:\Users\Антон\Desktop\Новая папка (2)\EEEEE3\bin\Debug\net6.0\EEEEE3.runtimeconfig.json
+C:\Users\Антон\Desktop\Новая папка (2)\EEEEE3\bin\Debug\net6.0\EEEEE3.dll
+C:\Users\Антон\Desktop\Новая папка (2)\EEEEE3\bin\Debug\net6.0\ref\EEEEE3.dll
+C:\Users\Антон\Desktop\Новая папка (2)\EEEEE3\bin\Debug\net6.0\EEEEE3.pdb
+C:\Users\Антон\Desktop\Новая папка (2)\EEEEE3\obj\Debug\net6.0\EEEEE3.csproj.AssemblyReference.cache
+C:\Users\Антон\Desktop\Новая папка (2)\EEEEE3\obj\Debug\net6.0\EEEEE3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\Desktop\Новая папка (2)\EEEEE3\obj\Debug\net6.0\EEEEE3.AssemblyInfoInputs.cache
+C:\Users\Антон\Desktop\Новая папка (2)\EEEEE3\obj\Debug\net6.0\EEEEE3.AssemblyInfo.cs
+C:\Users\Антон\Desktop\Новая папка (2)\EEEEE3\obj\Debug\net6.0\EEEEE3.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\Новая папка (2)\EEEEE3\obj\Debug\net6.0\EEEEE3.dll
+C:\Users\Антон\Desktop\Новая папка (2)\EEEEE3\obj\Debug\net6.0\ref\EEEEE3.dll
+C:\Users\Антон\Desktop\Новая папка (2)\EEEEE3\obj\Debug\net6.0\EEEEE3.pdb
+C:\Users\Антон\Desktop\Новая папка (2)\EEEEE3\obj\Debug\net6.0\EEEEE3.genruntimeconfig.cache
